@@ -6,7 +6,9 @@ set OPTION=%1
 )
 
 
-echo %OPTION%
+echo opcion: %OPTION%
+echo el segundo valor es %2
+	
 if [%OPTION%]==[joker] ( 
 start chrome.exe "https://www.youtube.com/watch?v=qk0J9b4BEqY&list=RDqk0J9b4BEqY&start_radio=1"
 )
@@ -19,5 +21,23 @@ start chrome.exe "https://www.youtube.com/watch?v=SXJGTnVfJic"
 if [%OPTION%]==[evangelion] ( 
 start chrome.exe "https://www.youtube.com/watch?v=6kguaGI7aZg"
 )
+if [%OPTION%]==[caleb] ( 
 
+	if [%2]==[] (
+	start chrome.exe "https://www.youtube.com/watch?v=gcipipADLnw&list=RDMMyckWVQlt8Mo&index=2"
+	)
+	if [%2]==["face in fears"] ( 
+	start chrome.exe "https://www.youtube.com/watch?v=doWygi9e5L8"
+	)
+)
+
+if [%OPTION%]==[giveHearts] ( 
+
+	if [%2]==[] (
+	start chrome.exe "https://www.youtube.com/watch?v=wgNqW2gEDiY"
+	)
+	if [%2]==["addic"] ( 
+	start chrome.exe "https://www.youtube.com/watch?v=RMTg5SA2c3o&list=RDMMyckWVQlt8Mo&index=5"
+	)
+)
 
