@@ -1,13 +1,12 @@
 @echo off
 if [%1]==[] ( 
-set OPTION=joker
+set OPTION=nada
 ) else ( 
 set OPTION=%1
 )
 
 
 echo opcion: %OPTION%
-echo el segundo valor es %2
 	
 if [%OPTION%]==[joker] ( 
 start chrome.exe "https://www.youtube.com/watch?v=qk0J9b4BEqY&list=RDqk0J9b4BEqY&start_radio=1"
@@ -41,3 +40,11 @@ if [%OPTION%]==[giveHearts] (
 	)
 )
 
+if [%OPTION%]==[nada] ( 
+echo joker
+echo bayonetta
+echo dream
+echo evangelion
+echo caleb
+echo giveHearts
+)
