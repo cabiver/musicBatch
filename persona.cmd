@@ -4,4 +4,6 @@ set OPTION=persona
 ) else ( 
 set OPTION=%1
 )
-echo|set /p=%OPTION%|python routes.py
+
+@REM echo %~dp0%OPTION%
+echo|set /p=%OPTION%|python "%~dp0routes.py"
