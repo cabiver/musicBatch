@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "persona",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=qk0J9b4BEqY&list=RDqk0J9b4BEqY&start_radio=1",
+            "https://www.youtube.com/watch?v=bbFO-pw4gAM",
+            "https://www.youtube.com/watch?v=0jm8nnHqx80",
+            "https://www.youtube.com/watch?v=vWWy7V9rCrA",
+            "https://www.youtube.com/watch?v=HU_Z8RKo_Ow&t=17s",
+            "https://www.youtube.com/watch?v=_F6LD_czS8s"
+        ]
+    },
+    {
+        "nombre": "bayonetta",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=EV6E13xODyA",
+            "https://www.youtube.com/watch?v=sXhhdNL05sY",
+            "https://www.youtube.com/watch?v=5HcmhgGp9QQ",
+            "https://www.youtube.com/watch?v=TMerSyvVarc"
+        ]
+    },
+    {
+        "nombre": "give hearts",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=dR7LONV5Jtk",
+            "https://www.youtube.com/watch?v=5aY2VoOjjIU",
+            "https://www.youtube.com/watch?v=jY_qXpTxAdI",
+            "https://www.youtube.com/watch?v=fLlqYn2LIcg",
+            "https://www.youtube.com/watch?v=_OuwBTqUaug",
+            "https://www.youtube.com/watch?v=gg8_Fqnsx6o"
+        ]
+    },
+    {
+        "nombre": "caleb",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=PUllEnsZ5IM",
+            "https://www.youtube.com/watch?v=Hj5Konof0gI",
+            "https://www.youtube.com/watch?v=gcipipADLnw",
+            "https://www.youtube.com/watch?v=doWygi9e5L8"
+        ]
+    },
+    {
+        "nombre": "richaad",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=9e7SGW_ADOk",
+            "https://www.youtube.com/watch?v=mWNKFBeYVxw",
+            "https://www.youtube.com/watch?v=jxA5NkqfnIs",
+            "https://www.youtube.com/watch?v=poaRBoTFeEA"
+        ]
+    },
+    {
+        "nombre": "cg5",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=U1NmdJbTpQI",
+            "https://www.youtube.com/watch?v=SXJGTnVfJic"
+        ]
+    },
+    {
+        "nombre": "jonathan young",
+        "canciones" : [
+            "https://www.youtube.com/watch?v=2RBazTfpybw",
+            "https://www.youtube.com/watch?v=DiaVqBSs550"
+        ]
+    }
+]
