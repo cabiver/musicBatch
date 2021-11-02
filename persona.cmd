@@ -1,6 +1,6 @@
 @echo off 
 if [%1]==[] ( 
-set OPTION=persona
+set OPTION=aleatorio
 ) else ( 
 set OPTION=%1
 )
