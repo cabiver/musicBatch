@@ -5,5 +5,4 @@ set OPTION=aleatorio
 set OPTION=%1
 )
 
-@REM echo %~dp0%OPTION%
 echo|set /p=%OPTION%|python "%~dp0routes.py"
